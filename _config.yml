@@ -3,7 +3,7 @@ title:        ML Summer Workshop @ KAIST
 baseurl:      ""
 paginate:     1
 locale:       "en"
-theme: jekyll-theme-cayman
+theme:        jekyll-theme-cayman
 
 # About/contact
 author:
